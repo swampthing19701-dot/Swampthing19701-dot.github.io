@@ -626,7 +626,7 @@
             <article class="product-card">
               <div class="product-tag">Grim Reaper</div>
               <div class="product-name">Crimson Harvester Tee</div>
-              <img src="crimgirl.png">
+              <img src="crimson harvestor.png">
               <div class="product-meta">Glow-eyed reaper, smoke and sigils.</div>
             </article>
             <article class="product-card">
