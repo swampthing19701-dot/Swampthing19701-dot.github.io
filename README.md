@@ -664,16 +664,15 @@
 
           <div class="grid-3">
             <article class="product-card">
-              <div class="product-tag">Skull & Scythes</div>
-              <div class="product-name">Death Crest Tee</div>
+              <div class="product-name">Limited Run!</div>
               <a href="Copilot_20260311_192711.png"><img src="Copilot_20260311_192711.png"></a>
               <div class="product-footer">
               </div>
             </article>
             <article class="product-card">
-              <div class="product-tag">Orb Bearer</div>
-              <div class="product-name">Crimson Omen Tee</div>
-              <div class="product-meta">Hooded skeleton, glowing red orb, ritual circle.</div>
+              
+              <div class="product-name">Limited Run!</div>
+              <a href="Copilot_20260311_194426.png"><img src="Copilot_20260311_194426.png"></a>
               <div class="product-footer">
                 
               </div>
