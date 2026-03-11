@@ -678,9 +678,9 @@
               </div>
             </article>
             <article class="product-card">
-              <div class="product-tag">Horned Relic</div>
-              <div class="product-name">Inferno Crown Tee</div>
-              <div class="product-meta">Horned skull, molten red eyes, cracked bone.</div>
+              
+              <div class="product-name">Limited Run!</div>
+              <a href="Copilot_20260311_195122.png"><img src="Copilot_20260311_195122.png"></a>
               <div class="product-footer">
                 
               </div>
