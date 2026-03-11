@@ -625,19 +625,19 @@
           <div class="grid-4">
             <article class="product-card">
               <div class="product-name">Crimson Harvester</div>
-              <a href="Copilot_20260311_165835.png" target="_blank"><img src="Copilot_20260311_165835.png"></a>
+              <a href="Copilot_20260311_165835.png"><img src="Copilot_20260311_165835.png"></a>
             </article>
             <article class="product-card">
               <div class="product-name">Infernal Relic</div>
-              <img src="Copilot_20260311_171244.png">
+              <a href="Copilot_20260311_171244.png"><img src="Copilot_20260311_171244.png"></a>
             </article>
             <article class="product-card">
               <div class="product-name">Silent Witness</div>
-              <img src="Copilot_20260311_173212.png">
+              <a href="Copilot_20260311_173212.png"><img src="Copilot_20260311_173212.png"></a>
             </article>
             <article class="product-card">
               <div class="product-name">Venom Oath</div>
-              <img src="Copilot_20260311_173806.png">
+              <a href="Copilot_20260311_173806.png"><img src="Copilot_20260311_173806.png"></a>
             </article>
           </div>
 
