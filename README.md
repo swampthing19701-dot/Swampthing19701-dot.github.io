@@ -666,7 +666,7 @@
             <article class="product-card">
               <div class="product-tag">Skull & Scythes</div>
               <div class="product-name">Death Crest Tee</div>
-              <img src="Copilot_20260311_192711.png></a>
+              <img src="Copilot_20260311_192711.png"></a>
               <div class="product-footer">
                 <button class="btn-view">View Design</button>
               </div>
