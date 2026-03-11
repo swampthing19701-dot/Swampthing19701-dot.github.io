@@ -666,9 +666,8 @@
             <article class="product-card">
               <div class="product-tag">Skull & Scythes</div>
               <div class="product-name">Death Crest Tee</div>
-              <img src="Copilot_20260311_192711.png"></a>
+              <a href="Copilot_20260311_192711.png"><img src="Copilot_20260311_192711.png"></a>
               <div class="product-footer">
-                <button class="btn-view">View Design</button>
               </div>
             </article>
             <article class="product-card">
@@ -676,7 +675,7 @@
               <div class="product-name">Crimson Omen Tee</div>
               <div class="product-meta">Hooded skeleton, glowing red orb, ritual circle.</div>
               <div class="product-footer">
-                <button class="btn-view">View Design</button>
+                
               </div>
             </article>
             <article class="product-card">
@@ -684,7 +683,7 @@
               <div class="product-name">Inferno Crown Tee</div>
               <div class="product-meta">Horned skull, molten red eyes, cracked bone.</div>
               <div class="product-footer">
-                <button class="btn-view">View Design</button>
+                
               </div>
             </article>
           </div>
