@@ -625,7 +625,7 @@
           <div class="grid-4">
             <article class="product-card">
               <div class="product-name">Crimson Harvester</div>
-              <a href="Copilot_20260311_165835.png" target="_blank" title="Click to view full-size image"><img src="Copilot_20260311_165835.png">
+              <a href="Copilot_20260311_165835.png" target="_blank"><img src="Copilot_20260311_165835.png"></a>
             </article>
             <article class="product-card">
               <div class="product-name">Infernal Relic</div>
