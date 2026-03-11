@@ -632,7 +632,6 @@
               <img src="Copilot_20260311_171244.png">
             </article>
             <article class="product-card">
-              <div class="product-tag"></div>
               <div class="product-name">Silent Witness Tee</div>
               <img src="Copilot_20260311_173212.png">
             </article>
