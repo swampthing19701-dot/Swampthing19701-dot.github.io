@@ -589,6 +589,7 @@
               <div class="hero-shirt">
                 <div class="hero-shirt-label">Evil Ways</div>
                 <div class="hero-shirt-name">Grim Reaper Sigil Tee</div>
+                <a href="Copilot_20260311_191056.png"><img src="Copilot_20260311_191056.png"></a>
                 <div class="hero-shirt-tag">Icons of the macabre</div>
               </div>
               <div class="hero-shirt">
