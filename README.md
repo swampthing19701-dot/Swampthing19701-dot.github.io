@@ -624,19 +624,19 @@
 
           <div class="grid-4">
             <article class="product-card">
-              <div class="product-name">Crimson Harvester Tee</div>
-              <img src="Copilot_20260311_165835.png">
+              <div class="product-name">Crimson Harvester</div>
+              <a href="Copilot_20260311_165835.png" target="_blank" title="Click to view full-size image"><img src="Copilot_20260311_165835.png">
             </article>
             <article class="product-card">
-              <div class="product-name">Infernal Relic Tee</div>
+              <div class="product-name">Infernal Relic</div>
               <img src="Copilot_20260311_171244.png">
             </article>
             <article class="product-card">
-              <div class="product-name">Silent Witness Tee</div>
+              <div class="product-name">Silent Witness</div>
               <img src="Copilot_20260311_173212.png">
             </article>
             <article class="product-card">
-              <div class="product-name">Venom Oath Tee</div>
+              <div class="product-name">Venom Oath</div>
               <img src="Copilot_20260311_173806.png">
             </article>
           </div>
