@@ -629,7 +629,6 @@
               <div class="product-meta">Glow-eyed reaper, smoke and sigils.</div>
             </article>
             <article class="product-card">
-              <div class="product-tag"></div>
               <div class="product-name">Infernal Relic Tee</div>
               <img src="Copilot_20260311_171244.png">
               <div class="product-meta">Demonic skull, ritual markings, deep red accents.</div>
@@ -641,8 +640,8 @@
               <div class="product-meta">Hooded figure, skeletal mask, voided eyes.</div>
             </article>
             <article class="product-card">
-              <div class="product-tag">Dagger & Serpent</div>
               <div class="product-name">Venom Oath Tee</div>
+              <img src="Copilot_20260311_173806.png">
               <div class="product-meta">Steel blade, coiled serpent, bloodline motif.</div>
             </article>
           </div>
