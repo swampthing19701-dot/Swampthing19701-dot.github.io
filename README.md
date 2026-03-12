@@ -587,15 +587,12 @@
           <div class="hero-art">
             <div class="hero-art-inner">
               <div class="hero-shirt">
-                <div class="hero-shirt-label">Evil Ways</div>
-                <div class="hero-shirt-name">Grim Reaper Sigil Tee</div>
+                
                 <a href="Copilot_20260311_191056.png"><img src="Copilot_20260311_191056.png"></a>
-                <div class="hero-shirt-tag">Icons of the macabre</div>
+                
               </div>
               <div class="hero-shirt">
-                <div class="hero-shirt-label">Dark Icons</div>
-                <div class="hero-shirt-name">Horned Skull Relic Tee</div>
-                <div class="hero-shirt-tag">Forged in shadow</div>
+                <a href="Copilot_20260311_195924.png"><img src="Copilot_20260311_195924.png"></a>
               </div>
               <div class="hero-shirt">
                 <div class="hero-shirt-label">Limited Bloodline</div>
