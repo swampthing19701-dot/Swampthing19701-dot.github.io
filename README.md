@@ -580,7 +580,7 @@
               <button class="btn btn-ghost">Evil Ways Collection</button>
             </div>
             <div class="hero-note">
-              Dark imagery. Clean execution. No apologies.
+             
             </div>
           </div>
 
@@ -609,7 +609,7 @@
       <section id="evil-ways">
         <div class="container">
           <div class="section-header">
-            <div class="section-kicker">Collection</div>
+            
             <h2 class="section-title">Evil Ways: The Signature Line</h2>
             <p class="section-sub">
               Icons of the macabre. Built for the wicked. Each piece feels like a symbol, not just a shirt.
@@ -639,7 +639,7 @@
      
         <div class="container">
           <div class="section-header">
-            <div class="section-kicker">Best Sellers</div>
+            
             <h2 class="section-title">Marked by the Squad</h2>
             <p class="section-sub">
               The pieces that never stay in stock for long. Once they’re gone, they’re gone.
@@ -677,7 +677,7 @@
       <section id="limited-bloodline">
         <div class="container">
           <div class="section-header">
-            <div class="section-kicker">Limited Bloodline</div>
+           
             <h2 class="section-title">Numbered Releases Only</h2>
             <p class="section-sub">
               Short-run drops for collectors of the dark. Each piece is tagged, tracked, and never reprinted.
