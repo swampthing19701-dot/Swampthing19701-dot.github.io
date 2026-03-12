@@ -634,13 +634,6 @@
               <a href="Copilot_20260311_173806.png"><img src="Copilot_20260311_173806.png"></a>
             </article>
           </div>
-
-          <div class="brand-block">
-            <p>
-              <img src="Copilot_20260311_202618.png">
-            </p>
-          </div>
-        </div>
       </section>
 
       <!-- BEST SELLERS -->
@@ -726,3 +719,4 @@
   </script>
 </body>
 </html>
+<img src="Copilot_20260311_202618.png">
