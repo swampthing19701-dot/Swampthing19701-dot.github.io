@@ -636,8 +636,7 @@
           </div>
       
 
-      <!-- BEST SELLERS -->
-      <section id="best-sellers">
+     
         <div class="container">
           <div class="section-header">
             <div class="section-kicker">Best Sellers</div>
