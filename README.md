@@ -634,7 +634,7 @@
               <a href="Copilot_20260311_173806.png"><img src="Copilot_20260311_173806.png"></a>
             </article>
           </div>
-      </section>
+      
 
       <!-- BEST SELLERS -->
       <section id="best-sellers">
