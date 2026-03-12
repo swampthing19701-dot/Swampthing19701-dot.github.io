@@ -598,9 +598,7 @@
                 <a href="Copilot_20260311_200544.png"><img src="Copilot_20260311_200544.png"></a>
               </div>
               <div class="hero-shirt">
-                <div class="hero-shirt-label">Relic Steel</div>
-                <div class="hero-shirt-name">Dagger & Serpent Tee</div>
-                <div class="hero-shirt-tag">For the wicked</div>
+                <a href="Copilot_20260311_201213.png"><img src="Copilot_20260311_201213.png"></a>
               </div>
             </div>
           </div>
