@@ -637,8 +637,7 @@
 
           <div class="brand-block">
             <p>
-              Death Squad Apparel was created for the ones who move different.
-              Dark imagery. Sharp lines. No apologies.
+              <img src="Copilot_20260311_202618.png">
             </p>
           </div>
         </div>
