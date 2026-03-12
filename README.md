@@ -50,7 +50,9 @@ img:hover {
       display: flex;
       flex-direction: column;
     }
-
+.no-blur:hover {
+  filter: none !important;
+}
     .container {
       width: 100%;
       max-width: var(--max-width);
@@ -723,6 +725,7 @@ img:hover {
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
 <article class="product-card">
-<img src="Copilot_20260311_202618.png">
+class="no-blur"
+  <img src="Copilot_20260311_202618.png">
 </article>
 © <span id="year"></span> Death Squad Apparel. All rights reserved.
