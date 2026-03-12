@@ -714,7 +714,7 @@ img:hover {
     <!-- FOOTER -->
     <footer>
       <div class="container">
-        © <span id="year"></span> Death Squad Apparel. All rights reserved.
+        
       </div>
     </footer>
   </div>
@@ -725,3 +725,4 @@ img:hover {
 <article class="product-card">
 <img src="Copilot_20260311_202618.png">
 </article>
+© <span id="year"></span> Death Squad Apparel. All rights reserved.
