@@ -595,9 +595,7 @@
                 <a href="Copilot_20260311_195924.png"><img src="Copilot_20260311_195924.png"></a>
               </div>
               <div class="hero-shirt">
-                <div class="hero-shirt-label">Limited Bloodline</div>
-                <div class="hero-shirt-name">Masked Shade Edition</div>
-                <div class="hero-shirt-tag">Numbered release</div>
+                <a href="Copilot_20260311_200544.png"><img src="Copilot_20260311_200544.png"></a>
               </div>
               <div class="hero-shirt">
                 <div class="hero-shirt-label">Relic Steel</div>
