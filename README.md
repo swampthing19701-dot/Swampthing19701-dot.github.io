@@ -671,7 +671,7 @@
             </article>
           </div>
         </div>
-      </section>
+      
 
       <!-- LIMITED BLOODLINE + EMAIL -->
       <section id="limited-bloodline">
