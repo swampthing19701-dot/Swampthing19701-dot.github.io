@@ -704,7 +704,7 @@
           </div>
         </div>
       </section>
-    </main>
+    
 
     <!-- FOOTER -->
     <footer>
@@ -717,6 +717,6 @@
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
-</body>
-</html>
+<article class="product-card">
 <img src="Copilot_20260311_202618.png">
+</article>
