@@ -28,7 +28,13 @@
       color: var(--bone);
       line-height: 1.5;
     }
+img {
+  transition: filter 0.3s ease;
+}
 
+img:hover {
+  filter: blur(5px);
+}
     a {
       color: inherit;
       text-decoration: none;
